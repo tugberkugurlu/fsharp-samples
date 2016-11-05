@@ -4,6 +4,6 @@ open System
 
 [<EntryPoint>]
 let main argv = 
-    printfn "Hello World!"
-    printfn "%A" argv
+    let now = NodaTime.Instant.FromDateTimeUtc(DateTime.Now.ToUniversalTime())
+    printfn "now: %s" (now.ToString())
     0 // return an integer exit code
