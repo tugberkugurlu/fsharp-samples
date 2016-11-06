@@ -10,6 +10,7 @@
    - [Discriminated Unions (from fsharpforfunandprofit.com)](https://fsharpforfunandprofit.com/posts/discriminated-unions/)
 
  - [Pattern Matching](https://docs.microsoft.com/en-us/dotnet/articles/fsharp/language-reference/pattern-matching)
+ - [Active Patterns](https://docs.microsoft.com/en-us/dotnet/articles/fsharp/language-reference/active-patterns)
  - [Records](https://docs.microsoft.com/en-us/dotnet/articles/fsharp/language-reference/records)
 
 ### Other Core Things
