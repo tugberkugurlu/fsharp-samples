@@ -8,5 +8,5 @@ namespace F1Graph
             let random = System.Random()
 
             fun len -> 
-                let randomChars = [|for i in 0..len -> chars.[random.Next(charsLength)]|]
-                new System.String(randomChars)
+                [|for i in 0..len -> chars.[random.Next(charsLength)]|] 
+                |> System.String
