@@ -14,6 +14,10 @@
 
 ## Some Really Good Talks :heart:
 
+In my personal view, it's valuable to start watching them in the order they are given:
+
+ - [Functional programming design patterns by Scott Wlaschin](https://vimeo.com/113588389)
+ - [Domain modelling with the F# type system by Scott Wlaschin](https://vimeo.com/97507575)
  - [Railway oriented programming: Error handling in functional languages by Scott Wlaschin](https://vimeo.com/113707214)
    - [Railway-Oriented-Programming-Example](https://github.com/swlaschin/Railway-Oriented-Programming-Example)
 
