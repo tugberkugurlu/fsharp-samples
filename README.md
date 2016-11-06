@@ -11,7 +11,9 @@
 
  - [File order matters in F#](http://bartwullems.blogspot.co.uk/2016/02/f-beginner-tip-file-order-matters.html)
  - [The F# Component Design Guidelines](http://fsharp.org/specs/component-design-guidelines/#consider-using-explicit-signature-files-fsi-for-stable-library-and-component-apis)
-
+ - [How to design and code a complete program](https://fsharpforfunandprofit.com/posts/recipe-part1/)
+ - [Organizing modules in a project](https://fsharpforfunandprofit.com/posts/recipe-part3/)
+ 
 ## Some Really Good Talks :heart:
 
 In my personal view, it's valuable to start watching them in the order they are given:
