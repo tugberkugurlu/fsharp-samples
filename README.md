@@ -15,9 +15,11 @@
 ## Some Really Good Talks :heart:
 
  - [Railway oriented programming: Error handling in functional languages by Scott Wlaschin](https://vimeo.com/113707214)
+   - [Railway-Oriented-Programming-Example](https://github.com/swlaschin/Railway-Oriented-Programming-Example)
 
 ## Functional Concepts Related
-
+ 
+ - [Monoids without tears](https://fsharpforfunandprofit.com/posts/monoids-without-tears/)
  - [Is Returning A Random Value From Function A Side Effect?](http://stackoverflow.com/questions/4391524/is-returning-a-random-value-from-function-a-side-effect)
 
 ## Have a Look If You Have Time to Kill
