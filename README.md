@@ -6,7 +6,12 @@
 
  - [Discriminated Unions](https://docs.microsoft.com/en-us/dotnet/articles/fsharp/language-reference/discriminated-unions)
    - [Discriminated Unions (from fsharpforfunandprofit.com)](https://fsharpforfunandprofit.com/posts/discriminated-unions/)
-   
+
+## F# Workspace Related Things
+
+ - [File order matters in F#](http://bartwullems.blogspot.co.uk/2016/02/f-beginner-tip-file-order-matters.html)
+ - [The F# Component Design Guidelines](http://fsharp.org/specs/component-design-guidelines/#consider-using-explicit-signature-files-fsi-for-stable-library-and-component-apis)
+
 ## Some Really Good Talks :heart:
 
  - [Railway oriented programming: Error handling in functional languages by Scott Wlaschin](https://vimeo.com/113707214)
