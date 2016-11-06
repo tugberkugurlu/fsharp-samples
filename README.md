@@ -25,7 +25,8 @@ In my personal view, it's valuable to start watching them in the order they are 
    - [Railway oriented programming on fsharpforfunandprofit.com](https://fsharpforfunandprofit.com/posts/recipe-part2/)
 
 ## Functional Concepts Related
- 
+
+ - [The "Recursive types and folds" series](https://fsharpforfunandprofit.com/series/recursive-types-and-folds.html)
  - [Monoids without tears](https://fsharpforfunandprofit.com/posts/monoids-without-tears/)
  - [Is Returning A Random Value From Function A Side Effect?](http://stackoverflow.com/questions/4391524/is-returning-a-random-value-from-function-a-side-effect)
 
