@@ -9,6 +9,9 @@
  - [Discriminated Unions](https://docs.microsoft.com/en-us/dotnet/articles/fsharp/language-reference/discriminated-unions)
    - [Discriminated Unions (from fsharpforfunandprofit.com)](https://fsharpforfunandprofit.com/posts/discriminated-unions/)
 
+ - [Pattern Matching](https://docs.microsoft.com/en-us/dotnet/articles/fsharp/language-reference/pattern-matching)
+ - [Records](https://docs.microsoft.com/en-us/dotnet/articles/fsharp/language-reference/records)
+
 ### Other Core Things
 
  - [Formatted text using printf](https://fsharpforfunandprofit.com/posts/printf/)
