@@ -9,9 +9,12 @@
  - [Discriminated Unions](https://docs.microsoft.com/en-us/dotnet/articles/fsharp/language-reference/discriminated-unions)
    - [Discriminated Unions (from fsharpforfunandprofit.com)](https://fsharpforfunandprofit.com/posts/discriminated-unions/)
 
+ - [Records](https://docs.microsoft.com/en-us/dotnet/articles/fsharp/language-reference/records)
+   - [Records (from fsharpforfunandprofit.com)](https://fsharpforfunandprofit.com/posts/records/)
+
  - [Pattern Matching](https://docs.microsoft.com/en-us/dotnet/articles/fsharp/language-reference/pattern-matching)
  - [Active Patterns](https://docs.microsoft.com/en-us/dotnet/articles/fsharp/language-reference/active-patterns)
- - [Records](https://docs.microsoft.com/en-us/dotnet/articles/fsharp/language-reference/records)
+ - [Sequences](https://docs.microsoft.com/en-us/dotnet/articles/fsharp/language-reference/sequences)
 
 ### Other Core Things
 
