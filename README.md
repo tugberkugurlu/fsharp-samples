@@ -21,14 +21,14 @@
 
  - [Formatted text using printf](https://fsharpforfunandprofit.com/posts/printf/)
 
-## F# Workspace Related Things
+## F# Workspace Related Things :computer:
 
  - [File order matters in F#](http://bartwullems.blogspot.co.uk/2016/02/f-beginner-tip-file-order-matters.html)
  - [The F# Component Design Guidelines](http://fsharp.org/specs/component-design-guidelines/#consider-using-explicit-signature-files-fsi-for-stable-library-and-component-apis)
  - [How to design and code a complete program](https://fsharpforfunandprofit.com/posts/recipe-part1/)
  - [Organizing modules in a project](https://fsharpforfunandprofit.com/posts/recipe-part3/)
  
-## Some Really Good Talks :heart:
+## Some Really Good Talks :heart: :tv:
 
 In my personal view, it's valuable to start watching them in the order they are given:
 
@@ -44,6 +44,6 @@ In my personal view, it's valuable to start watching them in the order they are 
  - [Monoids without tears](https://fsharpforfunandprofit.com/posts/monoids-without-tears/)
  - [Is Returning A Random Value From Function A Side Effect?](http://stackoverflow.com/questions/4391524/is-returning-a-random-value-from-function-a-side-effect)
 
-## Have a Look If You Have Time to Kill
+## Have a Look If You Have Time to Kill :zzz:
 
  - [Monads for functional programming by Philip Wadler, University of Glasgow](http://homepages.inf.ed.ac.uk/wadler/papers/marktoberdorf/baastad.pdf)
